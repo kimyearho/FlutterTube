@@ -15,6 +15,7 @@
 # This is a UI template made with #Flutter.
 
 - 99% Youtube app. (1% Difference)
+- Tested only on Pixel2 Android. iOS did not test.
 - The API for searching and the API for detailed pages are linked to the Youtube v3 API.
 - However, the search API does not use it in the source because it consumes a large quota.
 - The Details page allows you to play videos.
@@ -26,6 +27,7 @@
 # Flutter로 제작한 UI 템플릿 입니다.
 
 - 99% Youtube 앱과 동일하게 제작 했습니다. (1%의 차이는 있음)
+- Pixel2 Android에서만 테스트 되었습니다. iOS는 테스드 못했음.
 - 검색용 API 및 상세 페이지 API는 Youtube v3 API와 연동 되어 있습니다.
 - 다만 검색용 API는 큰 할당량을 소비하므로 소스내에서 사용하지 않습니다.
 - 상세 페이지에서는 비디오를 재생할 수 있습니다.
